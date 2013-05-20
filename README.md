@@ -1,6 +1,5 @@
 ﻿Game development project at refugee gaming.
 
-
 Game Concept
 
 A sidescrolling adventure set in a fantasy/tech universe based on the “Refugee Gaming” community and “Ref culture”

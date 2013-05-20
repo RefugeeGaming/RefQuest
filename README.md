@@ -1,6 +1,5 @@
 ﻿Game development project at refugee gaming.
 
-// Meta makes comments even in README's
 
 Game Concept
 
